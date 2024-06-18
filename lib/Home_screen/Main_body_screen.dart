@@ -3,7 +3,6 @@ import 'package:my_app/Home_screen/body_home_screen.dart';
 import 'package:my_app/Search/search.dart';
 import 'package:my_app/page/complex_screen.dart';
 import 'package:my_app/page/main-home.dart';
-import 'package:my_app/page/nav_screen.dart';
 
 class MainScreen extends StatefulWidget {
   const MainScreen({super.key});

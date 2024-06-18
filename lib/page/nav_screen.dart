@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:my_app/page/complex_screen.dart';
 
-import 'detail_screen.dart';
 
 class NavScreen extends StatefulWidget {
   const NavScreen({super.key});

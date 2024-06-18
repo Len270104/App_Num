@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-
-import '../../Home_screen/main_data.dart';
 import '../../Page_PDF/pdf_view.dart';
 
 class Home_display extends StatelessWidget {
